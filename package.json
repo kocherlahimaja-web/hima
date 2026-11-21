@@ -1,0 +1,30 @@
+{
+  "name": "hima",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kocherlahimaja-web/hima.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "vite": "^8.3.8"
+  },
+  "bugs": {
+    "url": "https://github.com/kocherlahimaja-web/hima/issues"
+  },
+  "homepage": "https://github.com/kocherlahimaja-web/hima#readme"
+}
